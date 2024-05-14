@@ -1,0 +1,35 @@
+.roundedCustomEffect30{
+	border-radius: 30px!important;
+}
+.customUlStyle li{
+	border-radius: 30px!important;
+	background:rgba(255, 255, 255, 0.7);
+	padding: 10px;
+	margin:10px;
+	transition: all 1s;
+	color:black;
+}
+.customUlStyle li.active{
+	background:#ffff;
+}
+.customUlStyle li:hover{
+	cursor: pointer;
+	background:#ffff;
+}
+.customStyleBtnH{
+	border:1px solid #fff;
+	color:#fff;
+}
+.customStyleBtn{
+	color:#fff;
+	padding:15px;
+	margin-right:10px;
+	margin-top:10px;
+}
+.rightTopP{
+	margin-top:10px;
+}
+.leftSearchInput{
+	width:87%!important;
+	float:right;
+}
